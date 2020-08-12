@@ -1,0 +1,5 @@
+export const ACTION_ADD = "ADD"
+export const ACTION_SUB = "SUB"
+export const ACTION_FATCH_USER_DATA = "FATCH_USER_DATA"
+export const ACTION_FATCH_USER_DATA_DONE = "FATCH_USER_DATA_DONE"
+export const DELETE_USER = "DELETE_USER"
